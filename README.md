@@ -4,4 +4,4 @@
 계획
 + CTF(Capture The Flag)
 + 암호경진대회 문제 풀이
-+ [Hacker Game](http://pwnable.kr/play.php)
++ [WarGame](http://pwnable.kr/play.php)
