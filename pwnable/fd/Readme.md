@@ -24,5 +24,7 @@ $ ssh user@127.0.0.1
 
 # Answer
 <p align="center"><img src="https://user-images.githubusercontent.com/37611500/123123564-e3a45700-d481-11eb-8f33-ff224214647a.PNG">
+	
 <p align="center"><img src="https://user-images.githubusercontent.com/37611500/123123938-33831e00-d482-11eb-81cf-3d1a07867b3c.PNG">
+
 Answer(flag) : mommy! I think I know what a file descriptor is!!
