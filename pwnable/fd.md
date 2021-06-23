@@ -5,7 +5,7 @@
 + 암호화된 네트워크 프로토콜
 	+ 일반적으로 암호화 하지 않는 네트워크 위에서 암호화된 접속 및 서비스 사용을 위해 사용
 
-### Linux SSH
+#### Linux SSH
 <pre>
 <code>
 1.
@@ -14,5 +14,5 @@ $ ssh user@hostname
 $ ssh user@127.0.0.1
 </code>
 </pre>
-
-
++ 일반적인 커멘드는 다음과 같다. 접속에 성공한다면 그 때부터 원격 호스트의 쉘을 사용하게 된다.
++ [ssh directory](https://jdm.kr/blog/212)
