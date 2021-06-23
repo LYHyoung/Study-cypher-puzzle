@@ -6,9 +6,13 @@
 	+ 일반적으로 암호화 하지 않는 네트워크 위에서 암호화된 접속 및 서비스 사용을 위해 사용
 
 ### Linux SSH
+<pre>
 <code>
 1.
 $ ssh user@hostname
 2.
 $ ssh user@127.0.0.1
 </code>
+</pre>
+
+
